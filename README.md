@@ -1,4 +1,4 @@
-### Hi there 👋
+### Kral4
 
 <!--
 **rootkral4/rootkral4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=rootkral4)
+![rootkral4's Github Stats](https://github-readme-stats.vercel.app/api?username=rootkral4&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootkral4&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=rootkral4&color=ff0000)
